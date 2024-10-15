@@ -10,13 +10,11 @@
 </head>
 
 <body>
-    <div class="header">
-        <h1>Ricasso Rich</h1>
-    </div>
     <div class="navbar">
+        <h1>Ricasso Rich</h1>
         <a href="#">Acceuil</a>
         <a href="#">Produits</a>
-        <a href="#" class="right">Compte</a>
-        <a href="#" class="right">Infolettre</a>
+        <a href="/script/compte.php" class="right">Compte</a>
+        <a href="/script/info.php" class="right">Infolettre</a>
     </div>
     <div class="main">
