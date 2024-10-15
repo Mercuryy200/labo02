@@ -8,19 +8,19 @@ require "script/header.php";
     <div class="mySlides fade">
         <div class="numbertext">1 / 3</div>
         <img src="images/tie1.webp" style="width:50%">
-        <div class="txt" style="width:50%; float: right;"> this is a test </div>
+        <div class="txt"> this is a test </div>
     </div>
 
     <div class="mySlides fade">
         <div class="numbertext">2 / 3</div>
         <img src="images/tie3.webp" style="width:50%">
-        <div class="txt" style="width:50%; float: right;"> this is a test </div>
+        <div class="txt"> this is a test </div>
     </div>
 
     <div class="mySlides fade">
         <div class="numbertext">3 / 3</div>
         <img src="images/tshirt5.webp" style="width:50%">
-        <div class="txt" style="width:50%; float: right;"> this is a test </div>
+        <div class="txt"> this is a test </div>
     </div>
 
     <!-- Next and previous buttons -->
